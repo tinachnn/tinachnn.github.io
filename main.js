@@ -21,21 +21,3 @@ function toggleGrowDesc() {
         image.classList.toggle("opaque");
     }
 }
-
-// const labels = Utils.months({count: 12});
-// const data = {
-//     labels: labels,
-//     datasets: [
-//       {
-//         label: 'Dataset 1',
-//         data: Utils.numbers(NUMBER_CFG),
-//         borderColor: Utils.CHART_COLORS.red,
-//         backgroundColor: Utils.transparentize(Utils.CHART_COLORS.red, 0.5),
-//       }]
-// };
-
-// var githubChart = new Chart("githubChart", {
-//     type: "line",
-//     data: data,
-//     options: {}
-// });
