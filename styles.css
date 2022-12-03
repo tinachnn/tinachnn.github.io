@@ -68,7 +68,6 @@ ul li a {
     height: 700px;
     padding-top: 150px;
     text-align: center;
-    /* background-color: #023E8A; */
 }
 
 .home-title {
@@ -91,7 +90,6 @@ ul li a {
 /* about me */
 #bio {
     height: 750px;
-    /* background-color: #0077B6; */
     padding: 135px 50px 0px 50px;
     text-align: center;
 }
@@ -103,14 +101,8 @@ ul li a {
 }
 
 .bio-desc {
-    padding-top: 100px;
+    padding-top: 175px;
     text-align: left;
-}
-
-.bio-arrow {
-    text-align: center;
-    padding-top: 180px;
-    color: white;
 }
 
 /* projects */

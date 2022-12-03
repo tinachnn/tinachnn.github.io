@@ -1,5 +1,3 @@
-// ADJUST NAVIGATION BAR COLOR ACCORDING TO WINDOW POSITION OR HAVE TEXT FADE IN AND OUT
-
 function toggleTetrisDesc() {
     let title = document.getElementById("card-1-title");
     let desc = document.getElementById("card-1-desc");
